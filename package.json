@@ -16,7 +16,7 @@
   "dependencies": {
     "express": "3.4.4",
     "socket.io": "0.9.16",
-    "pty.js": "github:y13i/pty.js#update_nan",
+    "pty.js": "git+https://github.com/y13i/pty.js.git#update_nan",
     "term.js": ">= 0.0.5"
   },
   "engines": { "node": ">= 0.8.0" }
